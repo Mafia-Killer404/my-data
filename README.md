@@ -1,8 +1,9 @@
 <h1 align="center">
- 🕵🕵🕵 MAFIA-KILLER404 🕵🕵🕵
+😎MAFIA-KILLER404😎
 
-<img src="https://github.com/Mafia-Killer404/my-data.git/MAFIA-KILLER404/blob/main/Cfb/20210119_231632.png" width="640" title="Menu" alt="Menu"> 
- 
+## install
+
+````
 pkg update
 pkg upgrade
 pkg install python
@@ -16,11 +17,10 @@ cd my-data
 ls
 python2 my-data.py
 
-###  My Social Media
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+923132197796?text=Asalamualaikum+bang)
-[![](https://img.shields.io/badge/Whatsapp-GROUP-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/https://chat.whatsapp.com/GdZ7LmokWjUGCZstKumq6k?text=Asalamualaikum and welcome to all my friends+bang)
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/romi.rizal.58)
-[![](https://img.shields.io/badge/Facebook GROUP-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/romi.rizal.58)
-[![](https://img.shields.io/badge/Facebook PAGES-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/romi.rizal.58)
-[![](https://img.shields.io/badge/INSTAGRAM-pink?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/romi.rizal.58)
-[![](https://img.shields.io/badge/TIKTOK-red?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/romi.rizal.58)
+````
+
+#### Username : no need
+#### Password : no need
+### Contact me
+[![](https://img.shields.io/badge/Facebook-GROUP-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/groups/163289698887595/?ref=share)
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+92132197796?text=Asalamualaikum+bang)
